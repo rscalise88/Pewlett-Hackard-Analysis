@@ -59,4 +59,4 @@ The larger pool of candidates helps to ensure that valuable knowledge held by th
 
 While this may potentially help address the lost of knowledge and talent at PH, it doesn't address the pending issue of leadership.  When the Technique Leaders and Managers currently set to retire make that choice, it would be beneficial to have an idea of who within the company would be a good candidate to fill those roles.  For the Technique Leaders especially, a similar mentorship program may be beneficial.
 
-It would also be beneficial to look at data outside of the company to determine not just now to retain knoweldge within the company, but attract new talent.  Recent graduate data, upcoming job fairs, etc.
+It would also be beneficial to look at data outside of the company to determine not just how to retain knoweldge within the company, but attract new talent.  Recent graduate data, upcoming job fairs, etc.
